@@ -1,0 +1,8 @@
+# Python packages needed to run the AI Study Assistant.
+langchain>=1.0
+langchain-core>=1.0
+langgraph>=1.0
+langchain-groq>=1.1
+streamlit>=1.50
+pydantic>=2.7
+python-dotenv>=1.0

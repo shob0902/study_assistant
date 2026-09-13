@@ -1,0 +1,7 @@
+# Streamlit theme: green nature palette used across the whole app.
+[theme]
+primaryColor = "#4A7023"
+backgroundColor = "#F4F9F1"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#2D5016"
+font = "sans serif"

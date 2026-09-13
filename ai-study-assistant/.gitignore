@@ -1,0 +1,7 @@
+# Files git should not track: secrets, Python caches and virtual environments.
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+LEARNING_GUIDE.md
